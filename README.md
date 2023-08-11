@@ -1,0 +1,2 @@
+# NT2PYTHONPRACTICE1
+Fundamentos de Python. SEMANA 2
